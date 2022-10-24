@@ -1,0 +1,83 @@
+/* .col-3{
+    background-color:blue;
+    border: 3px solid red;
+} */
+.navimg img{ 
+    width: 30px;
+}
+.logo {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    color: #e9db60;
+}
+.item{
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+}
+.devName{
+    font-family: cursive;
+    font-size: 30px;
+    ;
+}
+
+.devInfo {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px 1px;
+
+
+
+}
+
+.hello {
+    font-size: 50px
+}
+
+.name {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.about {
+    font-size: 25px;
+    margin-top: 7px;
+}
+
+.aboutmore {
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: unset;
+}
+.buttons{
+    margin: 17px 7px;
+}
+.skills{
+    margin: 17px -4px;
+}
+.skills h3{
+    font-size: 27px;
+}
+.container{
+    margin-top: 40px;
+    padding: 30px;
+}
+.contact{
+    margin-top: 40px;
+}
+.con{
+    margin-top: 20px;
+}
+.cardimg{
+    /* margin: 4px; */
+}
+.EmailAlert{
+    color: red;
+}
+#checkboxbtn{
+    color: red;
+}
